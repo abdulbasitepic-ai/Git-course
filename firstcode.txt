@@ -1,2 +1,5 @@
 hello world !!!
 take input and type value
+
+
+submit data to database
