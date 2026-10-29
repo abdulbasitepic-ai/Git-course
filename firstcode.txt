@@ -3,3 +3,12 @@ take input and type value
 
 procees to data
 submit data to databasemmmmmmmm
+
+
+
+
+
+
+
+
+creata an avator
